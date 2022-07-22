@@ -15,7 +15,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Hi There, I’m Nidhi Prakash and i am Front-End Web Developer. It's been 1 
+        Hi There, I’m Nidhi Prakash and I'm a Front-End Developer. It's been an
         year, I’m working as web developer on personal level. I have worked
         on many personal projects and made some Web Applications. I have 
         been part of some very good web design projects.
