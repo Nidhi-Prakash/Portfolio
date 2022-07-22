@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a3b24052.css",
+    "main.js": "/Portfolio/static/js/main.edcbb5f3.js",
+    "static/media/Blogging-Website.png": "/Portfolio/static/media/Blogging-Website.0cff3e3ad2e818992c20.png",
+    "static/media/Weather-App-React.png": "/Portfolio/static/media/Weather-App-React.c4f9b441b2fe2598b14d.png",
+    "static/media/BMI-calculator.png": "/Portfolio/static/media/BMI-calculator.1d83990c1fd4bfcb76cf.png",
+    "static/media/Calculator.png": "/Portfolio/static/media/Calculator.5f4f64faacddeede0fec.png",
+    "static/media/Sass.png": "/Portfolio/static/media/Sass.9537ac2f37eee70a0ca5.png",
+    "static/media/reactParallax.jpg": "/Portfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
+    "static/media/Weather-website.png": "/Portfolio/static/media/Weather-website.4f2e5f67bb55eaadd285.png",
+    "static/media/Shooting-Game.png": "/Portfolio/static/media/Shooting-Game.935d692bbb5630e56e98.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.f132cb791703420e69ca.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mee1.jpg": "/Portfolio/static/media/mee1.b3292e2c519221695b53.jpg",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/wordpress.png": "/Portfolio/static/media/wordpress.79d8c7909d3396cd2a40.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a3b24052.css.map": "/Portfolio/static/css/main.a3b24052.css.map",
+    "main.edcbb5f3.js.map": "/Portfolio/static/js/main.edcbb5f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b24052.css",
+    "static/js/main.edcbb5f3.js"
+  ]
+}
