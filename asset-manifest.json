@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a3b24052.css",
-    "main.js": "/Portfolio/static/js/main.edcbb5f3.js",
+    "main.js": "/Portfolio/static/js/main.c5ac1be5.js",
     "static/media/Blogging-Website.png": "/Portfolio/static/media/Blogging-Website.0cff3e3ad2e818992c20.png",
     "static/media/Weather-App-React.png": "/Portfolio/static/media/Weather-App-React.c4f9b441b2fe2598b14d.png",
     "static/media/BMI-calculator.png": "/Portfolio/static/media/BMI-calculator.1d83990c1fd4bfcb76cf.png",
@@ -21,10 +21,10 @@
     "static/media/wordpress.png": "/Portfolio/static/media/wordpress.79d8c7909d3396cd2a40.png",
     "index.html": "/Portfolio/index.html",
     "main.a3b24052.css.map": "/Portfolio/static/css/main.a3b24052.css.map",
-    "main.edcbb5f3.js.map": "/Portfolio/static/js/main.edcbb5f3.js.map"
+    "main.c5ac1be5.js.map": "/Portfolio/static/js/main.c5ac1be5.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b24052.css",
-    "static/js/main.edcbb5f3.js"
+    "static/js/main.c5ac1be5.js"
   ]
 }
