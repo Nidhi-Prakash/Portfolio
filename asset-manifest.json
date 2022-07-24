@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.fdf2e2a0.css",
-    "main.js": "/Portfolio/static/js/main.d55ea7cd.js",
+    "main.js": "/Portfolio/static/js/main.5cdc2a87.js",
     "static/media/Blogging-Website.png": "/Portfolio/static/media/Blogging-Website.0cff3e3ad2e818992c20.png",
     "static/media/Weather-App-React.png": "/Portfolio/static/media/Weather-App-React.c4f9b441b2fe2598b14d.png",
+    "static/media/Todo-List.png": "/Portfolio/static/media/Todo-List.25055d6b42ca178b5bfe.png",
     "static/media/BMI-calculator.png": "/Portfolio/static/media/BMI-calculator.1d83990c1fd4bfcb76cf.png",
     "static/media/Calculator.png": "/Portfolio/static/media/Calculator.5f4f64faacddeede0fec.png",
     "static/media/Sass.png": "/Portfolio/static/media/Sass.9537ac2f37eee70a0ca5.png",
-    "static/media/reactParallax.jpg": "/Portfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
     "static/media/Weather-website.png": "/Portfolio/static/media/Weather-website.4f2e5f67bb55eaadd285.png",
     "static/media/Shooting-Game.png": "/Portfolio/static/media/Shooting-Game.935d692bbb5630e56e98.png",
     "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.f132cb791703420e69ca.png",
@@ -21,10 +21,10 @@
     "static/media/wordpress.png": "/Portfolio/static/media/wordpress.79d8c7909d3396cd2a40.png",
     "index.html": "/Portfolio/index.html",
     "main.fdf2e2a0.css.map": "/Portfolio/static/css/main.fdf2e2a0.css.map",
-    "main.d55ea7cd.js.map": "/Portfolio/static/js/main.d55ea7cd.js.map"
+    "main.5cdc2a87.js.map": "/Portfolio/static/js/main.5cdc2a87.js.map"
   },
   "entrypoints": [
     "static/css/main.fdf2e2a0.css",
-    "static/js/main.d55ea7cd.js"
+    "static/js/main.5cdc2a87.js"
   ]
 }
