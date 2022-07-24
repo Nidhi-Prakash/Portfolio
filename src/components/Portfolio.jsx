@@ -6,7 +6,7 @@ import Calculator from "../assets/portfolio/Calculator.png";
 import ShootingGame from "../assets/portfolio/Shooting-Game.png";
 import BloggingWebsite from "../assets/portfolio/Blogging-Website.png";
 import WeatherAppReact from "../assets/portfolio/Weather-App-React.png";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import TodoList from "../assets/portfolio/Todo-List.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -18,9 +18,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: reactParallax,
-      demo: "",
-      code: "https://github.com/Nidhi-Prakash/Registration-Form",
+      src: TodoList,
+      demo: "https://nidhi-prakash.github.io/Todo-List/",
+      code: "https://github.com/Nidhi-Prakash/Todo-List",
     },
     {
       id: 3,
